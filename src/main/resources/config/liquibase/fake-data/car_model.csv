@@ -1,0 +1,4 @@
+id;car_model_name;type;year_of_manufacture;brand_id
+1;Toyota Camry;SUV;2019-10-10;1
+2;Honda Civis;Sedan;2019-10-10;2
+3;Ford Focus;SUV;2019-10-10;3

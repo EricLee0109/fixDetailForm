@@ -1,0 +1,4 @@
+id;license_plate;price;name;status;showroom_id;customer_id;employee_id;carmodel_id
+1;59A-76463;450000000;Toyota Camry 2019;xe cũ;1;1;1;1
+2;59A-65732;290000000;Honda Civis 2019;xe cũ;1;1;1;2
+3;59A-76853;400000000;Ford Focus 2019;xe cũ;1;1;1;3
